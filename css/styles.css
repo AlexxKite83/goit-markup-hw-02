@@ -6,9 +6,10 @@
   --color-iris: #4d5ae5;
   --color-slate: #434455;
 }
+
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--color-slate);
+  color: #434455;
   background-color: var(--color-white);
 }
 /* inherit - наследование свойств родителя */
